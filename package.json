@@ -1,0 +1,23 @@
+{
+  "name": "@amusshtest/learnnpm",
+  "version": "1.0.0",
+  "description": "szkolenie z npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ambussh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambus/learnNpm.git"
+  },
+  "keywords": [
+    "szkolenie",
+    "hot-to-npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/ambus/learnNpm/issues"
+  },
+  "homepage": "https://github.com/ambus/learnNpm#readme"
+}
